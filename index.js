@@ -2,6 +2,9 @@ function getFirstSelector(selector){
   document.getElementById("div").querySelector("div.ranked-list");
 }
 
+function nestedTarget() {
+  
+}
 
 
 /*describe( 'index', () => {
