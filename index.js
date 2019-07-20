@@ -1,4 +1,4 @@
-function getFirstSelector(){
+function getFirstSelector(selector){
   document.getElementById("div").querySelectorAll("div.ranked-list");
 }
 
