@@ -1,5 +1,5 @@
 function getFirstSelector(){
-  document.querySelector("div");
+  document.getElementById("div").querySelectorAll("");
 }
 
 
