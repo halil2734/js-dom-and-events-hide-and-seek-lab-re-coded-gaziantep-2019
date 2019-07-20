@@ -1,9 +1,9 @@
 function getFirstSelector(selector){
-  document.getElementById("div").querySelector("div.ranked-list");
+  document.getElementById("div").querySelector("ul.ranked-list li");
 }
 
 function nestedTarget() {
-  document.getElementById("nested")
+  document.getElementById("nested").querySelector()
 }
 
 
