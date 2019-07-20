@@ -1,5 +1,5 @@
 function getFirstSelector(selector){
-  document.getElementById("div").querySelectorAll("div.ranked-list");
+  document.getElementById("div").querySelector("div.ranked-list");
 }
 
 
