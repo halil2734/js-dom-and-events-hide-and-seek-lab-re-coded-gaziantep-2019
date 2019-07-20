@@ -1,6 +1,8 @@
 function getFirstSelector(){
-  document.getElement
+  document.querySelector("div");
 }
+
+
 
 /*describe( 'index', () => {
   describe( 'getFirstSelector(selector)', () => {
